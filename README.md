@@ -1,4 +1,4 @@
-# Wildlife Distortion Slide
+# Wildlife Distortion Slides
 
 ![Wildlife Distortion Slide](https://pushkin4000.github.io/wildlife-Distortion-slide/logo.png)
 
